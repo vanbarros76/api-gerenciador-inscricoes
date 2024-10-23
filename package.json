@@ -1,0 +1,21 @@
+{
+  "name": "projetopostman",
+  "version": "1.0.0",
+  "description": "backend para inscrições",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js",
+    "dev2": "node index2.js"
+  },
+  "author": "Vanessa Barros",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.9"
+  }
+}
